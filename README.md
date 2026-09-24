@@ -80,3 +80,6 @@ You can add the `record` modifier to a class or a struct. Records are types with
 - Concise syntax for nondestructive mutation. A `with` expression lets you create a new record instance that is a copy of an existing instance but with specified property values changed.
 - Built-in formatting for display. The `ToString` method prints the record type name and the names and values of public properties.
 - Support for inheritance hierarchies in record classes. Record classes support inheritance. Record structs don't support inheritance.
+
+## Visual Studio Code Suggestions Icons Meanings
+<img src="CSharpOOP/VS_Icons_Meanings.jpg" alt="Visual Studio suggestions icons with meanings" />
